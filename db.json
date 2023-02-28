@@ -1,0 +1,36 @@
+{
+  "company": [
+    {
+      "name": "dsdsdd",
+      "empcount": "d",
+      "revenue": "s",
+      "address": "s",
+      "isActive": true,
+      "id": 5
+    },
+    {
+      "name": "sss",
+      "empcount": "d",
+      "revenue": "tg",
+      "address": "tg",
+      "isActive": true,
+      "id": 6
+    },
+    {
+      "name": "b",
+      "empcount": "bb",
+      "revenue": "b",
+      "address": "b",
+      "isActive": true,
+      "id": 7
+    },
+    {
+      "name": "b",
+      "empcount": "f",
+      "revenue": "r",
+      "address": "e",
+      "isActive": true,
+      "id": 8
+    }
+  ]
+}
